@@ -1,0 +1,6 @@
+{
+  "name": "Efada Tour & Travel - Umrah Agency",
+  "description": "Official website for Efada (Ifada) Tour and Travel, premier Umrah and pilgrimage agency in Addis Ababa, Ethiopia. Offering guided Umrah packages, 1-year Umrah visas, flights, and holy site tours.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
